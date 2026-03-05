@@ -43,7 +43,6 @@ namespace Antisocial
         /// <param name="e">The event arguments.</param>
         private void OnMenuChanged(object? sender, MenuChangedEventArgs e)
         {
-            this.Monitor.Log($"{Game1.CurrentEvent}");
             if (e.NewMenu != null)
             {
                 if (e.NewMenu.GetType().Name is "DialogueBox")
