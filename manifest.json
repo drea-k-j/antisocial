@@ -1,0 +1,10 @@
+{
+    "Name": "Antisocial",
+    "Author": "dreakj",
+    "Version": "1.0.0",
+    "Description": "Makes socialization require energy.",
+    "UniqueID": "dreakj.Antisocial",
+    "EntryDll": "Antisocial.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
